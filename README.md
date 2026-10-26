@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">I'm a Full-Stack .NET Developer who enjoys building web applications.</h2>
+<!-- <h2 data-importer="text" align="left">I'm a Full-Stack .NET Developer who enjoys building web applications.</h2>
 
 ###
 
@@ -66,4 +66,4 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/FadiFayezDev/FadiFayezDev/snake-output/snake.svg" alt="Snake animation" />
 
-###
+### -->
