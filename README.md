@@ -5,10 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Fady;%F0%9F%A7%A9+Clean+Architecture+%C2%B7+DDD+%C2%B7+CQRS;%E2%9A%A1+ASP.NET+Core+%2B+Next.js;%F0%9F%8F%97%EF%B8%8F+Building+Stocka+ERP" alt="Typing" />
 
 <p>
-  <a href="https://github.com/FadiFayezDev"><img src="https://img.shields.io/badge/GitHub-FadiFayezDev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/fadyfiskander"><img src="https://img.shields.io/badge/GitHub-fadyfiskander-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/fadifayezdev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://fadifayezdev.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=FadiFayezDev&style=for-the-badge&color=1f6feb&label=VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=fadyfiskander&style=for-the-badge&color=1f6feb&label=VIEWS" alt="Views" />
 </p>
 
 </div>
@@ -30,8 +30,8 @@
 
 <div align="center">
 
-<a href="https://github.com/FadiFayezDev/Stocka">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FadiFayezDev&repo=Stocka&theme=tokyonight&hide_border=true" alt="Stocka" />
+<a href="https://github.com/fadyfiskander/Stocka">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fadyfiskander&repo=Stocka&theme=tokyonight&hide_border=true" alt="Stocka" />
 </a>
 
 🏪 Multi-tenant ERP &nbsp;•&nbsp; 🧱 Modular Monolith &nbsp;•&nbsp; 📦 Inventory + POS
@@ -72,16 +72,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FadiFayezDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadiFayezDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fadyfiskander&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyfiskander&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=FadiFayezDev&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=fadyfiskander&theme=tokyonight&hide_border=true" alt="Streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FadiFayezDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=fadyfiskander&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -92,9 +92,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FadiFayezDev/FadiFayezDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FadiFayezDev/FadiFayezDev/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/FadiFayezDev/FadiFayezDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadyfiskander/fadyfiskander/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadyfiskander/fadyfiskander/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/fadyfiskander/fadyfiskander/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 <br/>
